@@ -123,13 +123,11 @@ This will automatically open two terminal windows and start both the FastAPI bac
 
 ## 📸 Platform Preview
 
-> **Note**: Add your application screenshots here.
->
-> | Dashboard | AI Research Assistant |
-> | :---: | :---: |
-> | *(Screenshot placeholder)* | *(Screenshot placeholder)* |
-> | **Experiment Explorer** | **Insights & Analytics** |
-> | *(Screenshot placeholder)* | *(Screenshot placeholder)* |
+| Dashboard | AI Research Assistant |
+| :---: | :---: |
+| <img src="docs/images/Dashboard.png" width="400"/> | <img src="docs/images/AI_assistant.png" width="400"/> |
+| **Experiment Explorer** | **Insights & Analytics** |
+| <img src="docs/images/Explorer.png" width="400"/> | <img src="docs/images/Compare.png" width="400"/> |
 
 ---
 
