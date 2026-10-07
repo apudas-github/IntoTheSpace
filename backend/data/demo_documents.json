@@ -1,0 +1,29 @@
+[
+    {
+        "id": "doc-001",
+        "title": "Microgravity Flame Behavior and Extinction",
+        "text": "In microgravity, the absence of buoyancy-driven convection alters flame behavior significantly. Flames tend to be spherical and sootier. The primary mode of heat loss becomes radiation rather than convection. This shift in heat transfer mechanisms means that extinction limits (the point at which a flame goes out) are different from normal gravity.",
+        "source": "NASA Research Paper",
+        "source_url": "",
+        "date": "2023-05-15",
+        "topics": "Flame Behavior, Microgravity, Heat Transfer"
+    },
+    {
+        "id": "doc-002",
+        "title": "Spacecraft Fire Safety: Oxygen Sensitivity",
+        "text": "Spacecraft cabins often operate at lower pressures but higher oxygen concentrations. Combustion research indicates that even small increases in ambient oxygen concentration can dramatically lower the minimum energy required for ignition and increase flame spread rates in microgravity environments.",
+        "source": "ISS Science Report",
+        "source_url": "",
+        "date": "2024-01-20",
+        "topics": "Oxygen Sensitivity, Spacecraft Fire Safety"
+    },
+    {
+        "id": "doc-003",
+        "title": "Fire Suppression in Microgravity",
+        "text": "Traditional fire extinguishers rely on gravity to settle the suppression agent (like CO2 snow) over the fire. In microgravity, the agent disperses differently, potentially failing to smother the flame effectively. Alternative suppression methods are being tested using acoustic waves and fine water mist.",
+        "source": "DEMO Dataset",
+        "source_url": "",
+        "date": "2022-11-10",
+        "topics": "Fire Suppression, Mission Safety"
+    }
+]
