@@ -36,7 +36,7 @@ Understanding how fire behaves in space is critical for ensuring the safety of f
 
 ---
 
-## 🏆 Why IntoTheSpace Stands Out (For the Judges)
+## 🏆 Why IntoTheSpace Stands Out 
 
 Instead of just building another generic AI wrapper, we engineered **IntoTheSpace** specifically to solve the *Flame in Freefall* challenge with scientific rigor and usability in mind:
 
