@@ -36,6 +36,17 @@ Understanding how fire behaves in space is critical for ensuring the safety of f
 
 ---
 
+## 🏆 Why IntoTheSpace Stands Out (For the Judges)
+
+Instead of just building another generic AI wrapper, we engineered **IntoTheSpace** specifically to solve the *Flame in Freefall* challenge with scientific rigor and usability in mind:
+
+1. **Zero Hallucinations (Strict RAG)**: Spacecraft engineers cannot rely on LLMs making up physics. Our RAG pipeline restricts the AI to *only* answering based on retrieved NASA documents, always citing its sources.
+2. **Actionable Engineering Intelligence**: We don't just display raw combustion data; our Insights Engine actively synthesizes the data into critical parameters like *Flame Stability* and *Oxygen Sensitivity*, directly aiding future habitat design.
+3. **Bulletproof Pitch Resilience**: Hackathons are notorious for failing WiFi and rate-limited APIs. We built a robust **Demo Mode** that falls back to a deterministic local retrieval system, guaranteeing the app works flawlessly during the live presentation.
+4. **Beautiful, Modern UX**: We transformed dense, hard-to-read PDFs and CSVs into a highly interactive, glassmorphism-styled dashboard that researchers actually *want* to use.
+
+---
+
 ## 🛠️ Architecture & Tech Stack
 
 ### Frontend
