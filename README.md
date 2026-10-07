@@ -87,20 +87,26 @@ pip install -r requirements.txt
 
 # Seed the Database with Demo NASA Data
 python scripts/seed_database.py
-
-# Start the Server
-uvicorn main:app --reload
 ```
-*The backend API runs on `http://localhost:8000`*
 
 ### 4. Frontend Setup
-Open a new terminal window:
 ```bash
 cd frontend
 npm install
-npm run dev
 ```
-*The web application runs on `http://localhost:5173`*
+
+### 5. Run the Project
+We have included a convenient batch script for Windows users. Simply double-click:
+```bash
+start.bat
+```
+This will automatically open two terminal windows and start both the FastAPI backend and the React frontend simultaneously.
+
+**Manual Start (Mac/Linux):**
+- Terminal 1 (Backend): `cd backend && source venv/bin/activate && uvicorn main:app --reload`
+- Terminal 2 (Frontend): `cd frontend && npm run dev`
+
+*The web application will be available at `http://localhost:5173`*
 
 ---
 
